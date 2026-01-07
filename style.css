@@ -1,0 +1,27 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.text-gold {
+  color: #d4af37;
+}
+
+.btn-gold {
+  background-color: #d4af37;
+  color: #000;
+  border: none;
+}
+
+.btn-gold:hover {
+  background-color: #c19b2e;
+  color: #000;
+}
+
+.hero {
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://via.placeholder.com/1400x500') center/cover;
+  color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+  color: #d4af37 !important;
+}
